@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: pink;
   text-align: center;
 }
 
@@ -45,18 +45,7 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
-  background-color: #239b76;
-}
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
 
 .btn {
   padding: 8px 24px;
