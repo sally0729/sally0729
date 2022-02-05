@@ -1,10 +1,1 @@
-DIV#content {display: grid; grid-template-columns: 1fr 170px;
-grid-template-rows: auto auto 70px; width: 800px;
-margin: auto;}
-HEADER {grid-column: 1 / 3; grid-row: 1; padding-top: 5px;
-color: black; background-color: beige;}
-MAIN {grid-column: 1; grid-row: 2; width: 600px; margin-left: 10px;
-margin-top: 10px; border: 1px silver solid;}
-DIV#menu {grid-column: 2; grid-row: 2; width: 160px; margin-right: 10px;
-margin-top: 10px; color: black; background-color: beige;}
-FOOTER {grid-column: 1 / 3; grid-row: 3; margin-bottom: 1em;}
+
